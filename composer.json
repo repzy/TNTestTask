@@ -1,0 +1,10 @@
+{
+    "name": "repzy/tn-test-task",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
